@@ -11,7 +11,7 @@ How to run locally:
 6. After that open another terminal then type cd <file or folder location of the App.jsx (inside of the src folder)>
 7. Once again you have changed the file location you are accessing, run the command npm install
 8. Then after installation as long as there are only moderate vulnerabilities you may type in the command npm run dev
-9. click on the local host link that will appear in the terminal
+9. click on the local host link that will appear in the terminal (Since the project is using VITE do take note that the local host link may be something like this: http://localhost:5173)
 
 How to run via Github Codespace:
 
@@ -22,4 +22,4 @@ How to run via Github Codespace:
 5.  After that open another terminal then type cd <file or folder location of the App.jsx (inside of the src folder)>
 6.  Once again you have changed the file location you are accessing, run the command npm install
 8. Then after installation as long as there are only moderate vulnerabilities you may type in the command npm run dev
-9. click on the local host link that will appear in the terminal
+9. click on the local host link that will appear in the terminal (Since the project is using VITE do take note that the local host link may be something like this: http://localhost:5173)
